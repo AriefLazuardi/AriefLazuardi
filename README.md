@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Arief</h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Backend+Developer;1+Year+Experience;Like+Learn+New+Things" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+Backend+Developer;1+Year+Experience;Like+Learn+New+Things" alt="Typing SVG" /></a>
+</div>
 
 
 ###
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:m.arieflazuardi@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arieflzuardi
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arieflazuardi/)
+  <a href="mailto:m.arieflazuardi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/arieflzuardi">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/arieflazuardi/">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ###
