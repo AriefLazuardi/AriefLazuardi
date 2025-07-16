@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arief</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=10000&center=true&width=435&lines=Mohammad+Arief+Lazuardi" alt="Typing SVG" /></a>
+</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+Backend+Developer;1+Year+Experience;Like+Learn+New+Things" alt="Typing SVG" /></a>
