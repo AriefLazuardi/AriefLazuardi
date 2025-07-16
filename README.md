@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arief</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 Welcome to my GitHub profile! I'm Mohammad Arief Lazuardi, I am an enthusiastic learner who is deeply committed to exploring the expansive realm of programming. At present, my focus and passion lie in mastering the Go (Golang) programming language. On this platform, you will discover my most recent projects and fascinating findings as I navigate the thrilling world programming. Let's join forces and embark on a collaborative learning journey together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/arieflazuardi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arieflazuardii" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arieflazuardi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arieflazuardi" height="30" width="40" /></a>
 </p>
 
 
